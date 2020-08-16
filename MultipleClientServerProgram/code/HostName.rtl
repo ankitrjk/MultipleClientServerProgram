@@ -1,0 +1,8 @@
+Host Name|IP address|Port No
+A|localhost|5000
+B|localhost|6000
+C|localhost|7000
+D|localhost|8000
+server1|localhost|8500
+server2|localhost|9000
+client|localhost|9500

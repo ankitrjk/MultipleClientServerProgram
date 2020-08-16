@@ -1,0 +1,428 @@
+The Project Gutenberg EBook of Sakoontala or The Lost Ring, by Kalidasa
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Sakoontala or The Lost Ring
+       An Indian Drama
+
+Author: Kalidasa
+
+Release Date: April 27, 2004 [EBook #12169]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SAKOONTALA OR THE LOST RING ***
+
+
+
+
+Produced by Charles Aldarondo, Keren Vergon, jayam and PG Distributed
+Proofreaders
+
+
+
+
+
+
+[S']AKOONTALÁ
+
+OR THE LOST RING
+
+
+
+
+
+
+
+AN INDIAN DRAMA
+
+
+
+
+
+
+TRANSLATED INTO ENGLISH PROSE AND VERSE
+FROM THE SANSKRIT OF KÁLIDÁSA
+
+
+BY
+
+
+SIR MONIER MONIER-WILLIAMS, K.C.I.E.
+M.A., D.C.L., LL.D., PH.D.
+BODEN PROFESSOR OF SANSKRIT, HON. FELLOW OF UNIVERSITY
+AND LATE FELLOW OF BALLIOL COLLEGE, OXFORD
+
+
+
+
+PREFACE TO THE EIGHTH EDITION.
+
+The fact that the following translation (first published in 1855) of
+India's most celebrated drama has gone through seven editions, might
+reasonably have absolved me from the duty of revising it.
+
+Three years ago, however, I heard that Sir John Lubbock had thought
+'[S']akoontalá' worthy of a place among the hundred best books of the
+world, and had adopted my version of the original. I therefore
+undertook to go through every line and once again compare the
+translation with the Sanskrit, in the hope that I might be able to
+give a few finishing touches to a performance which, although it had
+been before the public for about forty years, was certainly not
+perfect. The act of revision was a labour of love, and I can honestly
+say that I did my best to make my representation of Kálidása's
+immortal work as true and trustworthy as possible.
+
+Another edition is now called for, but after a severely critical
+examination of every word, I have only detected a few minor
+unimportant points--and those only in the Introduction and Notes--in
+which any alteration appeared to be desirable. Indeed it is probable
+that the possessors of previous editions will scarcely perceive that
+any alterations have been made anywhere.
+
+Occasionally in the process of comparison a misgiving has troubled me,
+and I have felt inclined to accuse myself of having taken, in some
+cases, too great liberties with the Sanskrit original. But in the end
+I have acquiesced in my first and still abiding conviction that a
+literal translation (such as that which I have given in the notes of
+my edition of the Sanskrit text) might have commended itself to
+Oriental students, but would not have given a true idea of the beauty
+of India's most cherished drama to general readers, whose minds are
+cast in a European mould, and who require a translator to clothe
+Oriental ideas, as far as practicable, in a dress conformable to
+European canons of taste.
+
+And most assuredly such a translation would never have adapted itself
+to actual representation on a modern stage as readily as it now
+appears that my free version has done. It has gratified me exceedingly
+to find that youthful English-speaking Indians--cultured young men
+educated at the Universities of Calcutta, Madras and Bombay--have acted
+the [S']akoontalá, in the very words of my translation with the greatest
+success before appreciative audiences in various parts of India.
+
+And lest any one in this country should be sceptical as to the
+possibility of interesting a modern audience in a play written
+possibly as early as the third or fourth century of our era (see p.
+xvi), I here append an extract from a letter received by me in 1893
+from Mr. V. Padmanabha Aiyar, B.A., resident at Karamanai, Trivandrum,
+Travancore.
+
+'SIVEN COIL STREET, TRIVANDRUM,
+
+_'May 1, 1893_.
+
+'The members of the "Karamanai Young Men's Mutual Improvement Society"
+acted your translation of "[S']akoontalá" on the 3rd and 5th of
+September last year, in the Government Museum Theatre, Trivandrum.
+
+'It was acted in two parts. On the first day Acts I to IV were acted,
+and on the second the remaining three Acts.
+
+'All our chief native officials and many Europeans and their ladies
+honoured the occasion with their presence. We acted it a second time
+at the special request of H.H. the Second Prince of Travancore, in the
+Palace of His Highness' mother, the Junior Ránee.
+
+'The public were kind enough to pronounce it a success. In many cases
+the applause given was not so much for the acting as for the beauty of
+your translation. The Hindús have a great liking for this play, and
+not one of the enlightened Hindú community will fail to acknowledge
+your translation to be a very perfect one. Our object in acting Hindú
+plays is to bring home to the Hindús the good lessons that our ancient
+authors are able to teach us. If there is one lesson in these days
+more than another which familiarity with the fountains of Western
+literature constantly forces upon the mind, it is that our age is
+turning its back on time-honoured creeds and dogmas. We are hurrying
+forward to a chaos in which all our existing beliefs, nay even the
+fundamental axioms of morality, may in the end be submerged; and as
+the general tenor of Indian thought among the educated community is to
+reject everything that is old, and equally blindly to absorb
+everything new, it becomes more and more an urgent question whether
+any great intellectual or moral revolution, which has no foundations
+in the past, can produce lasting benefits to the people.
+
+'"I desire no future that will break the ties of the past" is what
+George Eliot has said, and so it is highly necessary that the Hindús
+should know something of their former greatness.
+
+'The songs in [S']akoontalá, one in the Prologue and another in the
+beginning of the fifth Act, very easily adapted themselves to Hindú
+tunes.'
+
+Towards the end of his letter Mr. Aiyar intimated that he himself took
+the part of Má[T.]Havya. He also mentioned that a few modifications and
+additions were introduced into some of the scenes.
+
+In a subsequent letter received from Mr. Keshava Aiyar, the Secretary
+of the Society, I was informed that my version of the Play was acted
+again at Trivandrum in 1894.
+
+These descriptions of the successful representation of the [S']akoontalá
+in Travancore justified me in expressing a hope that, as Kálidása has
+been called the Shakespeare of India, so the most renowned of his
+three dramatic works might, with a few manifestly necessary
+modifications, be some day represented, with equal success, before
+English-speaking audiences in other parts of the world and especially
+here in England. This hope has been realized, and quite recently my
+translation has been successfully acted by amateur actors before a
+London audience.
+
+I venture, therefore, to add the expression of a further hope that
+with the daily growth of interest in Oriental literature, and now that
+the [S']akoontalá forms one of Sir John Lubbock's literary series, it
+may be more extensively read by the Rulers of India in all parts of
+the Empire. Those who study it attentively cannot fail to become
+better acquainted with the customs and habits of thought, past and
+present, of the people committed to their sway.
+
+And it cannot be too often repeated that our duty towards our great
+Dependency requires us to do something more than merely rule justly.
+We may impart high education, we may make good laws, we may administer
+impartial justice, we may make roads, lay down railroads and
+telegraphs, stimulate trade, accomplish amazing engineering
+feats--like that lately achieved at Periyar--increase the wealth and
+develop the resources of our vast Eastern territories; but unless we
+seek to understand the inhabitants, unless we think it worth while to
+study their ancient literatures, their religious ideas, and
+time-honoured institutions, unless we find in them something to admire
+and respect, we can never expect any reciprocity of esteem and respect
+on their part--we can never look forward to a time when the present
+partition-wall, which obstructs the free Interchange of social
+relations between European and Asiatic races, will be entirely
+removed.
+
+MONIER MONIER-WILLIAMS, _December, 1898_.
+
+
+
+
+INTRODUCTION
+
+
+About a century has elapsed since the great English Orientalist, Sir
+William Jones, astonished the learned world by the discovery of a
+Sanskrit Dramatic Literature. He has himself given us the history of
+this discovery. It appears that, on his arrival in Bengal, he was very
+solicitous to procure access to certain books called Nátaks, of which
+he had read in one of the 'Lettres Édifiantes et Curieuses' written by
+the Jesuit Missionaries of China. But, although he sought information
+by consulting both Bráhmans and Europeans, he was wholly unable for
+some time to satisfy his curiosity as to the nature of these books. It
+was reported to him that they were not histories, as he had hoped, but
+that they abounded with fables, and consisted of conversations in
+prose and verse held before ancient Rájás, in their public assemblies.
+Others, again, asserted that they were discourses on dancing, music,
+and poetry. At length, a sensible Bráhman, conversant with European
+manners, removed all his doubts, and gave him no less delight than
+surprise, by telling him that the English nation had compositions of
+the same sort, which were publicly represented at Calcutta in the cold
+season, and bore the name of 'plays.' The same Bráhman, when asked
+which of these Nátaks was most universally esteemed, answered without
+hesitation, '[S']akoontalá.'
+
+It may readily be imagined with what interest, the keen Orientalist
+received this communication; with what rapidity he followed up the
+clue; and, when at length his zeal was rewarded by actual possession
+of a MS. copy of one of these dramas, with what avidity he proceeded
+to explore the treasures which for eighteen hundred years had remained
+as unknown to the European world as the gold-fields of Australia.
+
+The earliest Sanskrit drama with which we are acquainted, the
+'Clay-cart,' translated by my predecessor in the Boden Chair at
+Oxford, Professor H.H. Wilson, is attributed to a regal author, King
+[S']údraka, the date of whose reign cannot be fixed with any certainty,
+though some have assigned it to the first or second century B.C.
+Considering that the nations of Europe can scarcely be said to have
+possessed a dramatic literature before the fourteenth or fifteenth
+century of the present era, the great age of the Hindú plays would of
+itself be a most interesting and attractive circumstance, even if
+their poetical merit were not of a very high order. But when to the
+antiquity of these productions is added their extreme beauty and
+excellence as literary compositions, and when we also take into
+account their value as representations of the early condition of Hindú
+society--which, notwithstanding the lapse of two thousand years, has
+in many particulars obeyed the law of unchangeableness ever stamped on
+the manners and customs of the East--we are led to wonder that the
+study of the Indian drama has not commended itself in a greater degree
+to the attention of Europeans, and especially of Englishmen. The
+English student, at least, is bound by considerations of duty, as well
+as curiosity, to make himself acquainted with a subject which
+elucidates and explains the condition of the millions of Hindús who
+owe allegiance to his own Sovereign, and are governed by English laws.
+
+Of all the Indian dramatists, indeed of all Indian poets, the most
+celebrated is Kálidása, the writer of the present play. The late
+Professor Lassen thought it probable that he flourished about the
+middle of the third century after Christ. Professor Kielhorn of
+Göttingen has proved that the composer of the Mandasor Inscription
+(A.D. 472) knew Kálidása's Ritusamhára. Hence it may be inferred that
+Lassen was not far wrong[1]. Possibly some King named Vikramáditya
+received Kálidása at his Court, and honoured him by his patronage
+about that time. Little, however, is known of the circumstances of his
+life. There is certainly no satisfactory evidence to be adduced in
+support of the tradition current in India that he lived in the time
+of the _great_ King Vikramáditya I., whose capital was Ujjayiní, now
+Oujein.
+
+From the absence of historical literature in India, our knowledge of
+the state of Hindústán between the incursion of Alexander and the
+Muhammadan conquest is very slight. But it is ascertained with
+tolerable accuracy that, after the invasion of the kingdoms of Bactria
+and Afghánistán, the Tartars or Scythians (called by the Hindús
+'[S']akas') overran the north-western provinces of India, and retained
+possession of them. The great Vikramáditya or Vikramárka succeeded in
+driving back the barbaric hordes beyond the Indus, and so consolidated
+his empire that it extended over the whole of Northern Hindústán. His
+name is even now cherished among the Hindús with pride and affection.
+His victory over the Scythians is believed to have taken place about
+B.C. 57. At any rate this is the starting-point of the Vikrama (also
+called the Málava and in later times the Samvat) era, one of the
+epochs from which the Hindús still continue to count. There is good
+authority for affirming that the reign of this Vikramárka or
+Vikramáditya was equal in brilliancy to that of any monarch in any
+age. He was a liberal patron of science and literature, and gave
+splendid encouragement to poets, philologists, astronomers, and
+mathematicians. Nine illustrious men of genius are said to have
+adorned his Court, and to have been supported by his bounty. They were
+called the 'Nine Gems'; and a not unnatural tradition, which, however,
+must be considered untrustworthy, included Kálidása among the Nine.
+
+To Kálidása (as to another celebrated Indian Dramatist, Bhavabhúti,
+who probably flourished in the eighth century) only three plays are
+attributed; and of these the '[S']akoontalá' (here translated) has
+acquired the greatest celebrity [2].
+
+Indeed, the popularity of this play with the natives of India exceeds
+that of any other dramatic, and probably of any other poetical
+composition [3]. But it is not in India alone that the '[S']akoontalá' is
+known and admired. Its excellence is now recognized in every
+literary circle throughout the continent of Europe; and its beauties,
+if not yet universally known and appreciated, are at least
+acknowledged by many learned men in every country of the civilized
+world. The four well-known lines of Goethe, so often quoted in
+relation to the Indian drama, may here be repeated:
+
+  'Willst du die Blüthe des frühen, die Früchte des
+    späteren Jahres,
+  Willst du was reizt und entzückt, willst du was sättigt
+    und nährt,
+  Willst du den Himmel, die Erde, mit einem Namen
+    begreifen:
+  Nenn' ich, [S']akoontalá, Dich, und so ist Alles gesagt.'
+
+  'Would'st thou the young year's blossoms and the fruits
+    of its decline,
+  And all by which the soul is charmed, enraptured,
+    feasted, fed?
+  Would'st thou the Earth and Heaven itself in one sole
+    name combine?
+  I name thee, O [S']akoontalá! and all at once is said.'
+
+ _E.B. Eastwick_.
+
+Augustus William von Schlegel, in his first Lecture on Dramatic
+Literature, says: 'Among the Indians, the people from whom perhaps all
+the cultivation of the human race has been derived, plays were known
+long before they could have experienced any foreign influence. It has
+lately been made known in Europe that they have a rich dramatic
+literature, which ascends back for more than two thousand years. The
+only specimen of their plays (Nátaks) hitherto known to us is the
+delightful [S']akoontalá, which, notwithstanding the colouring of a
+foreign clime, bears in its general structure a striking resemblance
+to our romantic drama.'
+
+Alexander von Humboldt, in treating of Indian poetry, observes:
+'Kálidása, the celebrated author of the [S']akoontalá, is a masterly
+describer of the influence which Nature exercises upon the minds of
+lovers. This great poet flourished at the splendid court of
+Vikramáditya, and was, therefore, cotemporary with Virgil and Horace.
+Tenderness in the expression of feeling, and richness of creative
+fancy, have assigned to him his lofty place among the poets of all
+nations'.
+
+These considerations induced me, in 1853, to compile and publish an
+edition of the text of the '[S']akoontalá' from various original MSS.,
+with English translations of the metrical passages, and explanatory
+notes. A second edition of this work has since been published by the
+Delegates of the Oxford University Press. To the notes of that edition
+I must refer all students of Sanskrit literature who desire a close
+and literal translation of the present drama, and in the Preface will
+be found an account of various other editions and translations.
+
+The following pages contain a  _free_ translation, and the first
+English version in prose and metre, of the purest recension of the
+most celebrated drama of the Shakespeare of India.
+
+The need felt by the British public for some such translation as I
+have here offered can scarcely be questioned. A great people, who,
+through their empire in India, command the destinies of the Eastern
+world, ought surely to be conversant with the most popular of Indian
+dramas, in which the customs of the Hindús, their opinions,
+prejudices, and fables, their religious rites, daily occupations and
+amusements, are reflected as in a mirror. Nor is the prose translation
+of Sir W. Jones (excellent though it be) adapted to meet the
+requirements of modern times. That translation was unfortunately made
+from corrupt manuscripts (the best that could then be procured), in
+which the bold phraseology of Kálidása has been occasionally weakened,
+his delicate expressions of refined love clothed in an unbecoming
+dress, and his ideas, grand in their simplicity, diluted by repetition
+or amplification. It is, moreover, altogether unfurnished with
+explanatory annotations. The present translation, on the contrary,
+while representing the purest version of the drama, has abundant
+notes, sufficient to answer the exigencies of the non-oriental
+scholar.
+
+It may be remarked that in every Sanskrit play the women and inferior
+characters speak a kind of provincial dialect or _patois_, called
+Prákrit--bearing the relation to Sanskrit that Italian bears to Latin,
+or that the spoken Latin of the age of Cicero bore to the highly
+polished Latin in which he delivered his Orations. Even the heroine of
+the drama is made to speak in the vernacular dialect. The hero, on the
+other hand, and all the higher male characters, speak in Sanskrit; and
+as if to invest them with greater dignity, half of what they say is in
+verse. Indeed the prose part of their speeches is often very
+commonplace, being only introductory to the lofty sentiment of the
+poetry that follows. Thus, if the whole composition be compared to a
+web, the prose will correspond to the warp, or that part which is
+extended lengthwise in the loom, while the metrical portion will
+answer to the cross-threads which constitute the woof.
+
+The original verses are written in a great variety of Sanskrit metres.
+For example, the first thirty-four verses of '[S']akoontalá' exhibit
+eleven different varieties of metre. No English metrical system could
+give any idea of the almost infinite resources of Sanskrit in this
+respect. Nor have I attempted it. Blank verse has been employed by me
+in my translation, as more in unison with the character of our own
+dramatic writings, and rhyming stanzas have only been admitted when
+the subject-matter seemed to call for such a change. Perhaps the chief
+consideration that induced me to adopt this mode of metrical
+translation was, that the free and unfettered character of the verse
+enabled me to preserve more of the freshness and vigour of the
+original. If the poetical ideas of Kálidása have not been expressed in
+language as musical as his own, I have at least done my best to avoid
+diluting them by unwarrantable paraphrases or additions. If the
+English verses are prosaic, I have the satisfaction of knowing that by
+resisting the allurements of rhyme, I have done all in my power to
+avoid substituting a fictitious and meagre poem of my own for the
+grand, yet simple and chaste creation of Kálidása.
+
+The unrestricted liberty of employing hypermetrical lines of eleven
+syllables, sanctioned by the highest authority in dramatic
+composition, has, I think, facilitated the attainment of this object.
+One of our own poets has said in relation to such lines: 'Let it be
+remembered that they supply us with another cadence; that they add, as
+it were, a string to the instrument; and--by enabling the poet to
+relax at pleasure, to rise and fall with his subject--contribute what
+most is wanted, compass and variety. They are nearest to the flow of
+an unstudied eloquence, and should therefore be used in the drama[4].'
+Shakespeare does not scruple to avail himself of this licence four or
+five times in succession, as in the well-known passage beginning--
+
+  'To be or not to be, that is the question';
+
+and even Milton uses the same freedom once or twice in every page.
